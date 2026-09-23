@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ishanrajgrihar/ishanrajgrihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I’m Ishan, an avid learner with a keen interest in Data and Sustainability. 
 
 ✨ About me in 30 secs ✨
