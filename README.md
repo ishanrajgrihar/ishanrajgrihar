@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I'm Ishan 👋
 
-I’m Ishan, an avid learner with a keen interest in Data and Sustainability. 
+An avid learner with a keen interest in Data and Sustainability. 
 
 ✨ About me in 30 secs ✨
 
